@@ -2,6 +2,9 @@ import time
 import requests
 import json
 import pandas as pd
+import os
+import glob
+
 
 #url = "https://ikman.lk/data/serp?top_ads=2&spotlights=5&sort=date&order=desc&buy_now=0&urgent=0&categorySlug=cars&locationSlug=sri-lanka&category=392&page=2&filter_json=[]"
 
@@ -24,14 +27,15 @@ headers = {
 
 cars = pd.DataFrame([])
 
-for page in range(1,5): #Change Page Range
+
+for page in range(1,372): #Change Page Range
   url = f"https://ikman.lk/data/serp?top_ads=2&spotlights=5&sort=date&order=desc&buy_now=0&urgent=0&categorySlug=cars&locationSlug=sri-lanka&category=392&page={page}&filter_json=[]"
   r = requests.get(url, headers=headers)
   data = json.loads(r.text)
   cars = cars.append(pd.json_normalize(data['ads']))
   time.sleep(5)
 
-
+  del cars['id']
   #print(type(data))
   #for ads in data['ads']:
 	  #del ads['id']
@@ -41,16 +45,31 @@ for page in range(1,5): #Change Page Range
 
   #new = json.dumps(data, )
   #print(type(new))
+  for ads in data['ads']:
+    del ads['slug']
+    del ads['imgUrl']
+    del ads['discount']
+    del ads['isDeliveryFree']
+    del ads['isTopAd']
+    del ads['isUrgentAd']
+    del ads['isVerified']
+    del ads['isLocalJob']
+    del ads['adType']
 
 
 
  #json File
-  f = open("IkmanCars.json", "w")
-  json.dump(data, f, indent= 20)
+  f = open(f"IkmanCarsPage{page}.json", "w")
+  json.dump(data['ads'], f, indent= 15)
   f.close()
 
- #CSV File
+
+
+  #cars.to_json('ikmann.json')
+
+  #CSV File
   cars.to_csv('ikman.csv')
+
 
 
 
