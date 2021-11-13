@@ -24,7 +24,7 @@ headers = {
 
 cars = pd.DataFrame([])
 
-for page in range(1,371): #Change Page Range
+for page in range(1,5): #Change Page Range
   url = f"https://ikman.lk/data/serp?top_ads=2&spotlights=5&sort=date&order=desc&buy_now=0&urgent=0&categorySlug=cars&locationSlug=sri-lanka&category=392&page={page}&filter_json=[]"
   r = requests.get(url, headers=headers)
   data = json.loads(r.text)
@@ -37,11 +37,12 @@ for page in range(1,371): #Change Page Range
 	  #del ads['id']
 
 
-  print(f'Getting page {page}', 'wait only select 5 page...')
+  print(f'Getting page {page}', 'wait only selected 5 page for Testing...')
 
   #new = json.dumps(data, )
   #print(type(new))
 
+"""
 for ads in data['ads']:
   del ads['mrp']
   del ads['slug']
@@ -53,7 +54,7 @@ for ads in data['ads']:
   del ads['isVerified']
   del ads['isLocalJob']
   del ads['adType']
-
+"""
 
  #json File
   f = open("IkmanCars.json", "w")
