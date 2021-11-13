@@ -1,11 +1,11 @@
 {
                     "ads": [
                                         {
-                                                            "id": "617d01c7083eab234ee65599",
-                                                            "title": "Toyota Prius G Touring 2015",
+                                                            "id": "618a76413dce3b68cb9cf85a",
+                                                            "title": "Ssang Yong Korando Jeep 2015",
                                                             "description": "Colombo, Cars",
-                                                            "details": "78,080 km",
-                                                            "price": "Rs 7,575,000",
+                                                            "details": "51,000 km",
+                                                            "price": "Rs 6,975,000",
                                                             "isMember": false,
                                                             "isAuthDealer": false,
                                                             "isFeaturedMember": false,
@@ -21,58 +21,18 @@
                                                             "location": "Colombo"
                                         },
                                         {
-                                                            "id": "615d38d0e1950700741c260b",
-                                                            "title": "Toyota Axio WXB 2017",
+                                                            "id": "618fbd3d19e1bf57456b5c7d",
+                                                            "title": "Nissan Cefiro A33 G Grade 2000",
                                                             "description": "Colombo, Cars",
-                                                            "details": "62,000 km",
-                                                            "price": "Rs 9,500,000",
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "bump_up",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Colombo"
-                                        },
-                                        {
-                                                            "id": "617d18c5000697449eeec899",
-                                                            "title": "Toyota Aqua 2014",
-                                                            "description": "Colombo, Cars",
-                                                            "details": "70,080 km",
-                                                            "price": "Rs 6,225,000",
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "bump_up",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Colombo"
-                                        },
-                                        {
-                                                            "id": "618f9ebaebee890d59a6ed1d",
-                                                            "title": "Honda CRV EX Master Japan 2018",
-                                                            "description": "Colombo, Cars",
-                                                            "details": "15,000 km",
-                                                            "price": "Rs 19,500,000",
+                                                            "details": "112,000 km",
+                                                            "price": "Rs 2,875,000",
                                                             "isMember": true,
                                                             "isAuthDealer": false,
                                                             "isFeaturedMember": false,
                                                             "membershipLevel": "premium",
-                                                            "shopName": "Irahanda Trading",
+                                                            "shopName": "Riyolga Auto Mart",
                                                             "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
+                                                            "timeStamp": "9 minutes",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
@@ -81,11 +41,31 @@
                                                             "location": "Colombo"
                                         },
                                         {
-                                                            "id": "61852f3280c3a321a915c62c",
-                                                            "title": "Toyota Corolla 141 2008",
+                                                            "id": "618fc36625c7aa1e64dc0a6a",
+                                                            "title": "Toyota Belta 1300cc 2007",
+                                                            "description": "Ratnapura, Cars",
+                                                            "details": "112,000 km",
+                                                            "price": "Rs 5,590,000",
+                                                            "isMember": true,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "plus",
+                                                            "shopName": "e-adz",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "14 minutes",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Ratnapura"
+                                        },
+                                        {
+                                                            "id": "61752a86fb5aed4c30afd6cd",
+                                                            "title": "Mercedes Benz CLA 200 AMG Premium Plus 2020",
                                                             "description": "Colombo, Cars",
-                                                            "details": "95,000 km",
-                                                            "price": "Rs 5,750,000",
+                                                            "details": "12,800 km",
+                                                            "price": "Rs 25,800,000",
                                                             "isMember": false,
                                                             "isAuthDealer": false,
                                                             "isFeaturedMember": false,
@@ -101,15 +81,158 @@
                                                             "location": "Colombo"
                                         },
                                         {
-                                                            "id": "617a59ddaa150d4ba2d4327b",
-                                                            "title": "Suzuki Alto 2006",
-                                                            "description": "Kalutara, Cars",
-                                                            "details": "100,000 km",
-                                                            "price": "Rs 2,690,000",
+                                                            "id": "618fad6c1066f935e150b6c7",
+                                                            "title": "Suzuki Wagon R Stingray 2018",
+                                                            "description": "Matale, Cars",
+                                                            "details": "75,000 km",
+                                                            "price": "Rs 5,500,000",
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
                                                             "membershipLevel": "free",
-                                                            "shopName": "Sell Fast | Horana | Star Ad Creation",
+                                                            "shopName": "",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "15 minutes",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Matale"
+                                        },
+                                        {
+                                                            "id": "614697ff267d2268d93501b8",
+                                                            "title": "Toyota Land Cruiser Sahara Cygnus V8 LX470 2001",
+                                                            "description": "Colombo, Cars",
+                                                            "details": "163,000 km",
+                                                            "price": "Rs 14,800,000",
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "free",
+                                                            "shopName": "",
                                                             "isDoorstepDelivery": false,
                                                             "timeStamp": "bump_up",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Colombo"
+                                        },
+                                        {
+                                                            "id": "615d4ab110b2df001a2d9ec6",
+                                                            "title": "Mercedes Benz S400 2013",
+                                                            "description": "Colombo, Cars",
+                                                            "details": "43,700 km",
+                                                            "price": "Rs 43,500,000",
+                                                            "isMember": true,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "premium",
+                                                            "shopName": "Volstar Motoring Automobile",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "bump_up",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Colombo"
+                                        },
+                                        {
+                                                            "id": "618fc24cd8eb193a1ff2e83e",
+                                                            "title": "Toyota Prius S limited 2013",
+                                                            "description": "Ratnapura, Cars",
+                                                            "details": "129,000 km",
+                                                            "price": "Rs 7,850,000",
+                                                            "isMember": true,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "plus",
+                                                            "shopName": "e-adz",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "19 minutes",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Ratnapura"
+                                        },
+                                        {
+                                                            "id": "618fbaadd7691d001a62b1f6",
+                                                            "title": "Honda CRV 2019",
+                                                            "description": "Colombo, Cars",
+                                                            "details": "31,000 km",
+                                                            "price": "Rs 20,500,000",
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "free",
+                                                            "shopName": "",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "bump_up",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Colombo"
+                                        },
+                                        {
+                                                            "id": "618e68d990e3f03667102d71",
+                                                            "title": "Hyundai XG 30 2001",
+                                                            "description": "Colombo, Cars",
+                                                            "details": "141,000 km",
+                                                            "price": "Rs 2,790,000",
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "free",
+                                                            "shopName": "",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "bump_up",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Colombo"
+                                        },
+                                        {
+                                                            "id": "616e3860edf0d2007308c6be",
+                                                            "title": "Toyota Prius 3rd Gen 2012",
+                                                            "description": "Colombo, Cars",
+                                                            "details": "87,000 km",
+                                                            "price": "Rs 5,950,000",
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "free",
+                                                            "shopName": "",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "bump_up",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Colombo"
+                                        },
+                                        {
+                                                            "id": "618fc1041066f9461150b679",
+                                                            "title": "Mitsubishi Montero sports 2011",
+                                                            "description": "Kalutara, Cars",
+                                                            "details": "153,500 km",
+                                                            "price": "Rs 10,375,000",
+                                                            "isMember": true,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "premium",
+                                                            "shopName": "K-Auto Mart",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "24 minutes",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
@@ -118,75 +241,18 @@
                                                             "location": "Kalutara"
                                         },
                                         {
-                                                            "id": "618ddca66118fa0071ace6e7",
-                                                            "title": "Suzuki Wagon R Stingray 2018",
-                                                            "description": "Galle, Cars",
-                                                            "details": "10,800 km",
-                                                            "price": "Rs 6,375,000",
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "bump_up",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Galle"
-                                        },
-                                        {
-                                                            "id": "618f8608ef6b8a06fa5c6036",
-                                                            "title": "Datsun Redi Go - 2016",
-                                                            "description": "Colombo, Cars",
-                                                            "details": "75,000 km",
-                                                            "price": "Rs 2,325,000",
-                                                            "isMember": true,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "premium",
-                                                            "shopName": "Kangone Motor Traders",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Colombo"
-                                        },
-                                        {
-                                                            "id": "618f9a7aef6b8a2b665c5f4f",
-                                                            "title": "Honda Civic Ex Tech Pack 2019",
-                                                            "description": "Colombo, Cars",
-                                                            "details": "20,600 km",
-                                                            "price": "Rs 9,995,000",
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Colombo"
-                                        },
-                                        {
-                                                            "id": "618f9ae040e77e007212920a",
-                                                            "title": "Toyota Lexus Rx300 2001",
+                                                            "id": "618fb82ec08be238c902f61a",
+                                                            "title": "Tata Nano XTA 2017",
                                                             "description": "Gampaha, Cars",
-                                                            "details": "118,000 km",
-                                                            "price": "Rs 5,425,000",
+                                                            "details": "48,000 km",
+                                                            "price": "Rs 2,000,000",
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
                                                             "membershipLevel": "free",
                                                             "shopName": "",
                                                             "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
+                                                            "timeStamp": "25 minutes",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
@@ -195,78 +261,18 @@
                                                             "location": "Gampaha"
                                         },
                                         {
-                                                            "id": "6183dbaf85c7b967261639de",
-                                                            "title": "Toyota Prius 2014",
+                                                            "id": "618fb241c08be2389b02f604",
+                                                            "title": "Toyota Wigo 2017",
                                                             "description": "Colombo, Cars",
-                                                            "details": "82,000 km",
-                                                            "price": "Rs 7,290,000",
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "bump_up",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Colombo"
-                                        },
-                                        {
-                                                            "id": "618f840a5b86fd00748024f6",
-                                                            "title": "Suzuki Celerio VXI Auto 2014",
-                                                            "description": "Gampaha, Cars",
                                                             "details": "65,000 km",
-                                                            "price": "Rs 3,550,000",
-                                                            "isMember": true,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "plus",
-                                                            "shopName": "VS Auto Mart",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Gampaha"
-                                        },
-                                        {
-                                                            "id": "618f80a1c08be2620302f6ae",
-                                                            "title": "Toyota Carina 1.5 auto (AT-192) 2008",
-                                                            "description": "Gampaha, Cars",
-                                                            "details": "49,000 km",
-                                                            "price": "Rs 3,750,000",
-                                                            "isMember": true,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "premium",
-                                                            "shopName": "S & D CARS NEGOMBO",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Gampaha"
-                                        },
-                                        {
-                                                            "id": "618f9388675b290071ce6d2e",
-                                                            "title": "Honda Vezel 2014",
-                                                            "description": "Colombo, Cars",
-                                                            "details": "71,000 km",
-                                                            "price": "Rs 7,500,000",
+                                                            "price": "Rs 5,200,000",
                                                             "isMember": false,
                                                             "isAuthDealer": false,
                                                             "isFeaturedMember": false,
                                                             "membershipLevel": "free",
                                                             "shopName": "",
                                                             "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
+                                                            "timeStamp": "25 minutes",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
@@ -275,30 +281,16 @@
                                                             "location": "Colombo"
                                         },
                                         {
-                                                            "id": "618f9798f8d2d5001ad4d530",
-                                                            "title": "Suzuki Wagon R FX 2018",
-                                                            "description": "Galle, Cars",
-                                                            "details": "62,500 km",
-                                                            "price": "Rs 4,600,000",
-                                                            "membershipLevel": "free",
-                                                            "shopName": "Tele Ads",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Galle"
-                                        },
-                                        {
-                                                            "id": "6188cc96c80e400070eb4304",
-                                                            "title": "Toyota Aqua urban 2015",
-                                                            "description": "Kurunegala, Cars",
-                                                            "details": "79,000 km",
-                                                            "price": "Rs 6,250,000",
-                                                            "membershipLevel": "free",
-                                                            "shopName": "Sell Fast | Sampath Advertising",
+                                                            "id": "615f473cbb8d3b007015960f",
+                                                            "title": "BMW 740e 2018",
+                                                            "description": "Colombo, Cars",
+                                                            "details": "8,750 km",
+                                                            "price": "Rs 42,500,000",
+                                                            "isMember": true,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "premium",
+                                                            "shopName": "Volstar Motoring Automobile",
                                                             "isDoorstepDelivery": false,
                                                             "timeStamp": "bump_up",
                                                             "category": {
@@ -306,21 +298,41 @@
                                                                                 "name": "Cars"
                                                             },
                                                             "isJobAd": false,
-                                                            "location": "Kurunegala"
+                                                            "location": "Colombo"
                                         },
                                         {
-                                                            "id": "618612b7abc1074d4af55171",
-                                                            "title": "Mercedes Benz GLS 350D V6 2016",
+                                                            "id": "618fb3e2d8eb193a1ff2e80d",
+                                                            "title": "Toyota Prius 2011 2008",
                                                             "description": "Colombo, Cars",
-                                                            "details": "94,000 km",
+                                                            "details": "63,500 km",
+                                                            "price": "Rs 4,975,000",
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "free",
+                                                            "shopName": "",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "26 minutes",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Colombo"
+                                        },
+                                        {
+                                                            "id": "615d479457369b0046d5cbbf",
+                                                            "title": "BMW 730Ld 3000CC DIESEL 2017",
+                                                            "description": "Colombo, Cars",
+                                                            "details": "6,750 km",
                                                             "price": "Rs 57,500,000",
                                                             "isMember": true,
                                                             "isAuthDealer": false,
                                                             "isFeaturedMember": false,
                                                             "membershipLevel": "premium",
-                                                            "shopName": "Gonapinuwala Trading Co (Pvt) Ltd",
+                                                            "shopName": "Volstar Motoring Automobile",
                                                             "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
+                                                            "timeStamp": "bump_up",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
@@ -329,18 +341,18 @@
                                                             "location": "Colombo"
                                         },
                                         {
-                                                            "id": "618f8df911cb9b3230dd5185",
-                                                            "title": "Land Rover Range 2018",
+                                                            "id": "618fb349b09ab31d8cb70658",
+                                                            "title": "Nissan X-Trail Mode Premium 2016",
                                                             "description": "Colombo, Cars",
-                                                            "details": "5,000 km",
-                                                            "price": "Rs 66,000,000",
+                                                            "details": "22,000 km",
+                                                            "price": "Rs 13,900,000",
                                                             "isMember": false,
                                                             "isAuthDealer": false,
                                                             "isFeaturedMember": false,
                                                             "membershipLevel": "free",
                                                             "shopName": "",
                                                             "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
+                                                            "timeStamp": "35 minutes",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
@@ -349,38 +361,58 @@
                                                             "location": "Colombo"
                                         },
                                         {
-                                                            "id": "618f9698d8eb193a50f2e7d1",
-                                                            "title": "Toyota Premio G Superior 2018",
-                                                            "description": "Galle, Cars",
-                                                            "details": "31,000 km",
-                                                            "price": "Rs 16,250,000",
+                                                            "id": "618fbd64b5662f33ad6f5beb",
+                                                            "title": "Isuzu Bighorn UBS69 1998",
+                                                            "description": "Matale, Cars",
+                                                            "details": "255,000 km",
+                                                            "price": "Rs 9,000,000",
                                                             "isMember": true,
                                                             "isAuthDealer": false,
                                                             "isFeaturedMember": false,
                                                             "membershipLevel": "premium",
-                                                            "shopName": "Gonapinuwala Trading Co (Pvt) Ltd",
+                                                            "shopName": "Speed ads",
                                                             "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
+                                                            "timeStamp": "40 minutes",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
                                                             },
                                                             "isJobAd": false,
-                                                            "location": "Galle"
+                                                            "location": "Matale"
                                         },
                                         {
-                                                            "id": "618f8db4652349671be033d6",
-                                                            "title": "Toyota Tank Modified 2017",
-                                                            "description": "Gampaha, Cars",
-                                                            "details": "22,000 km",
-                                                            "price": "Rs 6,750,000",
+                                                            "id": "615882d67eebd405b8f5921b",
+                                                            "title": "Honda Vezel RU3 2014",
+                                                            "description": "Kandy, Cars",
+                                                            "details": "100,000 km",
+                                                            "price": "Rs 7,250,000",
                                                             "isMember": false,
                                                             "isAuthDealer": false,
                                                             "isFeaturedMember": false,
                                                             "membershipLevel": "free",
                                                             "shopName": "",
                                                             "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
+                                                            "timeStamp": "bump_up",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Kandy"
+                                        },
+                                        {
+                                                            "id": "618bba587078c51448c3ec72",
+                                                            "title": "Mitsubishi Montero centre spare Wheel 2013",
+                                                            "description": "Gampaha, Cars",
+                                                            "details": "98,234 km",
+                                                            "price": "Rs 19,500,000",
+                                                            "isMember": true,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "premium",
+                                                            "shopName": "SEEDEVI MOTORS",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "bump_up",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
@@ -389,144 +421,94 @@
                                                             "location": "Gampaha"
                                         },
                                         {
-                                                            "id": "618f8b1ab5662f33736f5b19",
-                                                            "title": "Audi S3 2018",
+                                                            "id": "618fbbfb25c7aa1e9ddc0a4a",
+                                                            "title": "Suzuki Escudo KE-7xx F/O Auto 2005",
                                                             "description": "Colombo, Cars",
-                                                            "details": "19,000 km",
-                                                            "price": "Rs 18,500,000",
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Colombo"
-                                        },
-                                        {
-                                                            "id": "618f8aa5675b290046ce6d25",
-                                                            "title": "Toyota Premio G Superior 2014",
-                                                            "description": "Anuradhapura, Cars",
-                                                            "details": "105,000 km",
-                                                            "price": "Rs 10,600,000",
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "3 hours",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Anuradhapura"
-                                        },
-                                        {
-                                                            "id": "6187bb27fec4384c667ed67f",
-                                                            "title": "Mitsubishi Lancer Evolution VII 2003",
-                                                            "description": "Kegalle, Cars",
-                                                            "details": "180,000 km",
-                                                            "price": "Rs 7,600,000",
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "bump_up",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Kegalle"
-                                        },
-                                        {
-                                                            "id": "617d0ecfcaea2441407406a2",
-                                                            "title": "Suzuki Wagon R Stringray 2018",
-                                                            "description": "Colombo, Cars",
-                                                            "details": "24,500 km",
-                                                            "price": "Rs 5,490,000",
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "bump_up",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Colombo"
-                                        },
-                                        {
-                                                            "id": "61790a4d0e3eeb6adc2e970c",
-                                                            "title": "Nissan Sunny N16 2002",
-                                                            "description": "Kurunegala, Cars",
-                                                            "details": "132,000 km",
-                                                            "price": "Rs 3,125,000",
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "timeStamp": "bump_up",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isJobAd": false,
-                                                            "location": "Kurunegala"
-                                        }
-                    ],
-                    "topAds": [
-                                        {
-                                                            "id": "6189f9e0dd0860004393090e",
-                                                            "slug": "toyota-allion-g-grade-2008-for-sale-colombo-30",
-                                                            "title": "Toyota Allion G GRADE 2008",
-                                                            "description": "Colombo, Cars",
-                                                            "details": "91,000 km",
-                                                            "imgUrl": "https://i.ikman-st.com/toyota-allion-g-grade-2008-for-sale-colombo-30/add772b1-5cf7-4b39-b400-f0c3ee6efe47/160/120/cropped.jpg",
-                                                            "price": "Rs 6,790,000",
-                                                            "discount": 0,
-                                                            "mrp": 0,
+                                                            "details": "106,562 km",
+                                                            "price": "Rs 6,995,000",
                                                             "isMember": true,
                                                             "isAuthDealer": false,
                                                             "isFeaturedMember": false,
                                                             "membershipLevel": "premium",
-                                                            "shopName": "Suren Auto Mart",
+                                                            "shopName": "Isuru Trading",
                                                             "isDoorstepDelivery": false,
-                                                            "isDeliveryFree": false,
-                                                            "isTopAd": true,
-                                                            "isUrgentAd": false,
-                                                            "timeStamp": "4 days",
+                                                            "timeStamp": "1 hour",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
                                                             },
-                                                            "isVerified": true,
                                                             "isJobAd": false,
-                                                            "location": "Colombo",
-                                                            "adType": "for_sale",
-                                                            "isLocalJob": false
+                                                            "location": "Colombo"
                                         },
                                         {
-                                                            "id": "617bf87c78ad270046a6d2e3",
-                                                            "slug": "suzuki-wagon-r-stingray-2018-for-sale-colombo-2578",
-                                                            "title": "Suzuki Wagon R Stingray 2018",
+                                                            "id": "618fb09a1d3bdd1a9f556ad1",
+                                                            "title": "Honda Fit 2015",
+                                                            "description": "Kandy, Cars",
+                                                            "details": "98,000 km",
+                                                            "price": "Rs 5,950,000",
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "free",
+                                                            "shopName": "",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "1 hour",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Kandy"
+                                        },
+                                        {
+                                                            "id": "618fafbe19e1bf57756b5c55",
+                                                            "title": "Perodua Viva Elite AMIEZT 2013",
                                                             "description": "Colombo, Cars",
-                                                            "details": "69,500 km",
-                                                            "imgUrl": "https://i.ikman-st.com/suzuki-wagon-r-stingray-2018-for-sale-colombo-2578/a1aab09d-b4a2-4481-a47b-a122fc44260e/160/120/cropped.jpg",
+                                                            "details": "104,250 km",
+                                                            "price": "Rs 3,500,000",
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "free",
+                                                            "shopName": "",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "1 hour",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Colombo"
+                                        },
+                                        {
+                                                            "id": "618bc45b87cbe40045bc77e1",
+                                                            "title": "Nissan March 2001",
+                                                            "description": "Gampaha, Cars",
+                                                            "details": "98,654 km",
+                                                            "price": "Rs 2,690,000",
+                                                            "isMember": true,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "premium",
+                                                            "shopName": "SEEDEVI MOTORS",
+                                                            "isDoorstepDelivery": false,
+                                                            "timeStamp": "bump_up",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isJobAd": false,
+                                                            "location": "Gampaha"
+                                        }
+                    ],
+                    "topAds": [
+                                        {
+                                                            "id": "6146cc90fb6fd400477a49fa",
+                                                            "slug": "toyota-belta-1300cc-full-option-2008-for-sale-colombo-4",
+                                                            "title": "Toyota Belta 1300CC Full option 2008",
+                                                            "description": "Colombo, Cars",
+                                                            "details": "110,000 km",
+                                                            "imgUrl": "https://i.ikman-st.com/toyota-belta-1300cc-full-option-2008-for-sale-colombo-4/bddc2734-dc36-4f97-8503-573f8b6dd8ea/160/120/cropped.jpg",
                                                             "price": "Rs 5,400,000",
                                                             "discount": 0,
                                                             "mrp": 0,
@@ -538,8 +520,8 @@
                                                             "isDoorstepDelivery": false,
                                                             "isDeliveryFree": false,
                                                             "isTopAd": true,
-                                                            "isUrgentAd": true,
-                                                            "timeStamp": "15 days",
+                                                            "isUrgentAd": false,
+                                                            "timeStamp": "55 days",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
@@ -549,89 +531,27 @@
                                                             "location": "Colombo",
                                                             "adType": "for_sale",
                                                             "isLocalJob": false
-                                        }
-                    ],
-                    "spotlights": [
-                                        {
-                                                            "id": "618b7b5ad912bb6c4947842b",
-                                                            "slug": "bmw-i8-full-specs-2018-for-sale-ratnapura",
-                                                            "title": "BMW i8 Full Specs 2018",
-                                                            "description": "Ratnapura, Cars",
-                                                            "details": "25,000 km",
-                                                            "imgUrl": "https://i.ikman-st.com/u/bmw-i8-full-specs-2018-for-sale-ratnapura/e55a7e18-5043-4047-a147-6812354231bb/510/306/cropped.jpg",
-                                                            "price": "Rs 38,000,000",
-                                                            "discount": 0,
-                                                            "mrp": 0,
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "isDeliveryFree": false,
-                                                            "isTopAd": false,
-                                                            "isUrgentAd": false,
-                                                            "timeStamp": "3 days",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isVerified": false,
-                                                            "isJobAd": false,
-                                                            "location": "Ratnapura",
-                                                            "adType": "for_sale",
-                                                            "isLocalJob": false
                                         },
                                         {
-                                                            "id": "618e29f726566a54b11e1db5",
-                                                            "slug": "mitsubishi-outlander-gt-2010-for-sale-kurunegala",
-                                                            "title": "Mitsubishi Outlander GT 2010",
-                                                            "description": "Kurunegala, Cars",
-                                                            "details": "99,760 km",
-                                                            "imgUrl": "https://i.ikman-st.com/u/mitsubishi-outlander-gt-2010-for-sale-kurunegala/d5ece7e6-e72e-46eb-a063-3388f03bc8c2/510/306/cropped.jpg",
-                                                            "price": "Rs 9,800,000",
-                                                            "discount": 0,
-                                                            "mrp": 0,
-                                                            "isMember": false,
-                                                            "isAuthDealer": false,
-                                                            "isFeaturedMember": false,
-                                                            "membershipLevel": "free",
-                                                            "shopName": "",
-                                                            "isDoorstepDelivery": false,
-                                                            "isDeliveryFree": false,
-                                                            "isTopAd": false,
-                                                            "isUrgentAd": false,
-                                                            "timeStamp": "1 day",
-                                                            "category": {
-                                                                                "id": 392,
-                                                                                "name": "Cars"
-                                                            },
-                                                            "isVerified": false,
-                                                            "isJobAd": false,
-                                                            "location": "Kurunegala",
-                                                            "adType": "for_sale",
-                                                            "isLocalJob": false
-                                        },
-                                        {
-                                                            "id": "6171504e4e1da40075be4f8e",
-                                                            "slug": "suzuki-maruti-800cc-2005-for-sale-gampaha-87",
-                                                            "title": "Suzuki Maruti 800CC 2005",
+                                                            "id": "6186c73babf54751ef0f099c",
+                                                            "slug": "toyota-prius-s-2013-for-sale-gampaha-144",
+                                                            "title": "Toyota Prius S 2013",
                                                             "description": "Gampaha, Cars",
-                                                            "details": "44,600 km",
-                                                            "imgUrl": "https://i.ikman-st.com/u/suzuki-maruti-800cc-2005-for-sale-gampaha-87/288f8e8c-78c1-4a75-afc6-26441ef97dad/510/306/cropped.jpg",
-                                                            "price": "Rs 1,495,000",
+                                                            "details": "150,000 km",
+                                                            "imgUrl": "https://i.ikman-st.com/toyota-prius-s-2013-for-sale-gampaha-144/ff67bfb2-a70e-4182-bf61-c4e01b9c2ba6/160/120/cropped.jpg",
+                                                            "price": "Rs 6,800,000",
                                                             "discount": 0,
                                                             "mrp": 0,
-                                                            "isMember": true,
+                                                            "isMember": false,
                                                             "isAuthDealer": false,
                                                             "isFeaturedMember": false,
-                                                            "membershipLevel": "premium",
-                                                            "shopName": "Jaela-MarutiGedara ",
+                                                            "membershipLevel": "free",
+                                                            "shopName": "",
                                                             "isDoorstepDelivery": false,
                                                             "isDeliveryFree": false,
-                                                            "isTopAd": false,
+                                                            "isTopAd": true,
                                                             "isUrgentAd": false,
-                                                            "timeStamp": "23 days",
+                                                            "timeStamp": "7 days",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
@@ -641,15 +561,17 @@
                                                             "location": "Gampaha",
                                                             "adType": "for_sale",
                                                             "isLocalJob": false
-                                        },
+                                        }
+                    ],
+                    "spotlights": [
                                         {
-                                                            "id": "617e4209ff7ea44acd7bf7f6",
-                                                            "slug": "volkswagen-tiguan-allspace-2018-for-sale-colombo-4",
-                                                            "title": "Volkswagen Tiguan Allspace 2018",
+                                                            "id": "615966f572c3ae39a336afdf",
+                                                            "slug": "mazda-6-sky-active-2013-for-sale-colombo-3",
+                                                            "title": "Mazda 6 Sky Active 2013",
                                                             "description": "Colombo, Cars",
-                                                            "details": "48,000 km",
-                                                            "imgUrl": "https://i.ikman-st.com/u/volkswagen-tiguan-allspace-2018-for-sale-colombo-4/42ae9874-90bc-4554-aa60-822eb6fbda82/510/306/cropped.jpg",
-                                                            "price": "Rs 23,500,000",
+                                                            "details": "110,000 km",
+                                                            "imgUrl": "https://i.ikman-st.com/u/mazda-6-sky-active-2013-for-sale-colombo-3/34a8b0bd-d2d3-4ca5-94ef-2c70a40eda34/510/306/cropped.jpg",
+                                                            "price": "Rs 9,000,000",
                                                             "discount": 0,
                                                             "mrp": 0,
                                                             "isMember": false,
@@ -661,7 +583,7 @@
                                                             "isDeliveryFree": false,
                                                             "isTopAd": false,
                                                             "isUrgentAd": false,
-                                                            "timeStamp": "13 days",
+                                                            "timeStamp": "41 days",
                                                             "category": {
                                                                                 "id": 392,
                                                                                 "name": "Cars"
@@ -673,13 +595,13 @@
                                                             "isLocalJob": false
                                         },
                                         {
-                                                            "id": "617684d7cf966d001a823ad7",
-                                                            "slug": "mitsubishi-xpander-2018-for-sale-colombo-46",
-                                                            "title": "Mitsubishi Xpander 2018",
+                                                            "id": "617698cc0394c700769b7b1c",
+                                                            "slug": "toyota-land-cruiser-prado-petrol-2017-for-sale-colombo",
+                                                            "title": "Toyota Land Cruiser Prado Petrol 2017",
                                                             "description": "Colombo, Cars",
-                                                            "details": "16,674 km",
-                                                            "imgUrl": "https://i.ikman-st.com/u/mitsubishi-xpander-2018-for-sale-colombo-46/acf234c4-49e7-4d44-bcdc-a6b3a2a38a3b/510/306/cropped.jpg",
-                                                            "price": "Rs 13,250,000",
+                                                            "details": "35,781 km",
+                                                            "imgUrl": "https://i.ikman-st.com/u/toyota-land-cruiser-prado-petrol-2017-for-sale-colombo/16ab5d9e-9621-43fa-87ae-cb964bfafa62/510/306/cropped.jpg",
+                                                            "price": "Rs 48,000,000",
                                                             "discount": 0,
                                                             "mrp": 0,
                                                             "isMember": true,
@@ -701,12 +623,102 @@
                                                             "location": "Colombo",
                                                             "adType": "for_sale",
                                                             "isLocalJob": false
+                                        },
+                                        {
+                                                            "id": "618f32caebee890044a6ec33",
+                                                            "slug": "bmw-mini-cooper-s-2010-for-sale-colombo",
+                                                            "title": "BMW Mini Cooper S 2010",
+                                                            "description": "Colombo, Cars",
+                                                            "details": "73,500 km",
+                                                            "imgUrl": "https://i.ikman-st.com/u/bmw-mini-cooper-s-2010-for-sale-colombo/b58e304b-72eb-47ec-a6b7-4c502833dff5/510/306/cropped.jpg",
+                                                            "price": "Rs 8,900,000",
+                                                            "discount": 0,
+                                                            "mrp": 0,
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "free",
+                                                            "shopName": "",
+                                                            "isDoorstepDelivery": false,
+                                                            "isDeliveryFree": false,
+                                                            "isTopAd": false,
+                                                            "isUrgentAd": false,
+                                                            "timeStamp": "bump_up",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isVerified": false,
+                                                            "isJobAd": false,
+                                                            "location": "Colombo",
+                                                            "adType": "for_sale",
+                                                            "isLocalJob": false
+                                        },
+                                        {
+                                                            "id": "617d537b000697449eeec96f",
+                                                            "slug": "toyota-corolla-141-2008-for-sale-gampaha-428",
+                                                            "title": "Toyota Corolla 141 2008",
+                                                            "description": "Gampaha, Cars",
+                                                            "details": "107,000 km",
+                                                            "imgUrl": "https://i.ikman-st.com/u/toyota-corolla-141-2008-for-sale-gampaha-428/59f42ac2-3c60-4be1-b2e7-5e885e8cb9a3/510/306/cropped.jpg",
+                                                            "price": "Rs 5,575,000",
+                                                            "discount": 0,
+                                                            "mrp": 0,
+                                                            "isMember": false,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "free",
+                                                            "shopName": "",
+                                                            "isDoorstepDelivery": false,
+                                                            "isDeliveryFree": false,
+                                                            "isTopAd": false,
+                                                            "isUrgentAd": false,
+                                                            "timeStamp": "14 days",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isVerified": false,
+                                                            "isJobAd": false,
+                                                            "location": "Gampaha",
+                                                            "adType": "for_sale",
+                                                            "isLocalJob": false
+                                        },
+                                        {
+                                                            "id": "616a393428335e24996f9215",
+                                                            "slug": "dfsk-glory-580-2021-for-sale-colombo-43",
+                                                            "title": "DFSK Glory 580 2021",
+                                                            "description": "Colombo, Cars",
+                                                            "details": "7,600 km",
+                                                            "imgUrl": "https://i.ikman-st.com/u/dfsk-glory-580-2021-for-sale-colombo-43/a6722679-25d9-4db2-a9c2-79eeaf55488a/510/306/cropped.jpg",
+                                                            "price": "Rs 8,900,000",
+                                                            "discount": 0,
+                                                            "mrp": 0,
+                                                            "isMember": true,
+                                                            "isAuthDealer": false,
+                                                            "isFeaturedMember": false,
+                                                            "membershipLevel": "plus",
+                                                            "shopName": "LUXCARS.LK",
+                                                            "isDoorstepDelivery": false,
+                                                            "isDeliveryFree": false,
+                                                            "isTopAd": false,
+                                                            "isUrgentAd": false,
+                                                            "timeStamp": "28 days",
+                                                            "category": {
+                                                                                "id": 392,
+                                                                                "name": "Cars"
+                                                            },
+                                                            "isVerified": false,
+                                                            "isJobAd": false,
+                                                            "location": "Colombo",
+                                                            "adType": "for_sale",
+                                                            "isLocalJob": false
                                         }
                     ],
                     "paginationData": {
-                                        "total": 9256,
+                                        "total": 9258,
                                         "pageSize": 25,
-                                        "activePage": 4,
+                                        "activePage": 1,
                                         "pageButtons": 5
                     },
                     "filters": {
@@ -756,7 +768,7 @@
                                         ],
                                         "adType": [
                                                             {
-                                                                                "label": "For sale (9,256)",
+                                                                                "label": "For sale (9,258)",
                                                                                 "value": "for_sale"
                                                             },
                                                             {
@@ -788,17 +800,17 @@
                                                                                                     {
                                                                                                                         "key": "toyota",
                                                                                                                         "label": "Toyota",
-                                                                                                                        "count": 2961
+                                                                                                                        "count": 2963
                                                                                                     },
                                                                                                     {
                                                                                                                         "key": "suzuki",
                                                                                                                         "label": "Suzuki",
-                                                                                                                        "count": 1659
+                                                                                                                        "count": 1658
                                                                                                     },
                                                                                                     {
                                                                                                                         "key": "honda",
                                                                                                                         "label": "Honda",
-                                                                                                                        "count": 970
+                                                                                                                        "count": 972
                                                                                                     },
                                                                                                     {
                                                                                                                         "key": "nissan",
@@ -818,7 +830,7 @@
                                                                                                     {
                                                                                                                         "key": "bmw",
                                                                                                                         "label": "BMW",
-                                                                                                                        "count": 269
+                                                                                                                        "count": 268
                                                                                                     },
                                                                                                     {
                                                                                                                         "key": "micro",
@@ -1067,13 +1079,13 @@
                                                                                                     {
                                                                                                                         "key": "used",
                                                                                                                         "label": "Used",
-                                                                                                                        "count": 9072,
+                                                                                                                        "count": 9073,
                                                                                                                         "id": "used"
                                                                                                     },
                                                                                                     {
                                                                                                                         "key": "reconditioned",
                                                                                                                         "label": "Reconditioned",
-                                                                                                                        "count": 134,
+                                                                                                                        "count": 135,
                                                                                                                         "id": "reconditioned"
                                                                                                     },
                                                                                                     {
@@ -1092,7 +1104,7 @@
                                                                                                     {
                                                                                                                         "key": "automatic",
                                                                                                                         "label": "Automatic",
-                                                                                                                        "count": 6353,
+                                                                                                                        "count": 6355,
                                                                                                                         "id": "automatic"
                                                                                                     },
                                                                                                     {
@@ -1123,13 +1135,13 @@
                                                                                                     {
                                                                                                                         "key": "petrol",
                                                                                                                         "label": "Petrol",
-                                                                                                                        "count": 6554,
+                                                                                                                        "count": 6555,
                                                                                                                         "id": "petrol"
                                                                                                     },
                                                                                                     {
                                                                                                                         "key": "hybrid",
                                                                                                                         "label": "Hybrid",
-                                                                                                                        "count": 1500,
+                                                                                                                        "count": 1502,
                                                                                                                         "id": "hybrid"
                                                                                                     },
                                                                                                     {
@@ -1141,7 +1153,7 @@
                                                                                                     {
                                                                                                                         "key": "electric",
                                                                                                                         "label": "Electric",
-                                                                                                                        "count": 69,
+                                                                                                                        "count": 68,
                                                                                                                         "id": "electric"
                                                                                                     },
                                                                                                     {
@@ -1166,19 +1178,19 @@
                                                                                                     {
                                                                                                                         "key": "hatchback",
                                                                                                                         "label": "Hatchback",
-                                                                                                                        "count": 3386,
+                                                                                                                        "count": 3384,
                                                                                                                         "id": "hatchback"
                                                                                                     },
                                                                                                     {
                                                                                                                         "key": "saloon",
                                                                                                                         "label": "Saloon",
-                                                                                                                        "count": 2743,
+                                                                                                                        "count": 2744,
                                                                                                                         "id": "saloon"
                                                                                                     },
                                                                                                     {
                                                                                                                         "key": "suv-4x4",
                                                                                                                         "label": "SUV / 4x4",
-                                                                                                                        "count": 1777,
+                                                                                                                        "count": 1778,
                                                                                                                         "id": "suv-4x4"
                                                                                                     },
                                                                                                     {
@@ -1196,7 +1208,7 @@
                                                                                                     {
                                                                                                                         "key": "coupe-sports",
                                                                                                                         "label": "Coup\u00e9/Sports",
-                                                                                                                        "count": 67,
+                                                                                                                        "count": 68,
                                                                                                                         "id": "coupe-sports"
                                                                                                     },
                                                                                                     {
@@ -1212,7 +1224,7 @@
                                                                                 "key": "mileage",
                                                                                 "label": "Mileage",
                                                                                 "minimum": 0,
-                                                                                "maximum": 504000
+                                                                                "maximum": 403200
                                                             }
                                         ],
                                         "showDoorstepDelivery": false
@@ -1269,7 +1281,7 @@
                                                             "slug": "cars",
                                                             "form_view_version": "2",
                                                             "parentId": 391,
-                                                            "count": "9,256"
+                                                            "count": "9,258"
                                         },
                                         "393": {
                                                             "id": 393,
@@ -6319,7 +6331,7 @@
                                                             "slug": "colombo",
                                                             "link": "/ads/colombo",
                                                             "parentId": -1,
-                                                            "count": "4,383"
+                                                            "count": "4,382"
                                         },
                                         "1507": {
                                                             "id": 1507,
@@ -6737,7 +6749,7 @@
                                                             "slug": "gampaha",
                                                             "link": "/ads/gampaha",
                                                             "parentId": -1,
-                                                            "count": "1,811"
+                                                            "count": "1,812"
                                         },
                                         "1580": {
                                                             "id": 1580,
@@ -6940,7 +6952,7 @@
                                                             "slug": "kalutara",
                                                             "link": "/ads/kalutara",
                                                             "parentId": -1,
-                                                            "count": "420"
+                                                            "count": "419"
                                         },
                                         "1622": {
                                                             "id": 1622,
@@ -7345,7 +7357,7 @@
                                                             "slug": "matale",
                                                             "link": "/ads/matale",
                                                             "parentId": -1,
-                                                            "count": "85"
+                                                            "count": "86"
                                         },
                                         "1714": {
                                                             "id": 1714,
@@ -7675,7 +7687,7 @@
                                                             "slug": "ratnapura",
                                                             "link": "/ads/ratnapura",
                                                             "parentId": -1,
-                                                            "count": "137"
+                                                            "count": "139"
                                         },
                                         "1790": {
                                                             "id": 1790,
@@ -8354,8 +8366,8 @@
                     "categoryId": 392,
                     "locationId": -1,
                     "title": "Buy & Sell Cars in Sri Lanka | ikman.lk",
-                    "description": "\ud83c\udfce\ufe0f 9,256+ New and Used Cars for Sale in Sri Lanka at best Prices. Buy from ikman.lk's largest collection of Hatchback, Saloon, SUV, MPV cars from top brands.",
+                    "description": "\ud83c\udfce\ufe0f 9,258+ New and Used Cars for Sale in Sri Lanka at best Prices. Buy from ikman.lk's largest collection of Hatchback, Saloon, SUV, MPV cars from top brands.",
                     "h1Text": "Cars for Sale in Sri Lanka",
-                    "contentSnippet": "<h4>9,256+ Cars for Sale in Sri Lanka</h4>\n<p>You have access to over 9,256+ brand new, used and reconditioned cars at low prices on ikman.lk, the largest vehicle marketplace in Sri Lanka. Make use of our category-based search to find the right car for you. From Toyota, Honda, Mercedez to BMW, and everything in between, ikman.lk has a wide range of cars listings of all vehicle brands, models and a wide variety of auto services near you.</p>\n<h4>Buy Cars at best price in Sri Lanka</h4>\n<p>Browse 9,256+ Cars from top brands like <a href='/en/ads/sri-lanka/cars/toyota'>Toyota</a>, <a href='/en/ads/sri-lanka/cars/suzuki'>Suzuki</a>, <a href='/en/ads/sri-lanka/cars/honda'>Honda</a>, <a href='/en/ads/sri-lanka/cars/nissan'>Nissan</a>, <a href='/en/ads/sri-lanka/cars/mitsubishi'>Mitsubishi</a> and more only on ikman.lk. Find <a href='/en/ads/c/sri-lanka/cars/used'>Used</a>, <a href='/en/ads/c/sri-lanka/cars/reconditioned'>Reconditioned</a>, <a href='/en/ads/c/sri-lanka/cars/new'>New</a> Cars from private sellers, trusted members, car sales and authorized dealers islandwide.</p>\n<h4>Sell Cars easily on ikman.lk</h4>\n<p>Sell your Cars online and reach thousands of interested buyers. Posting an ad on ikman takes just 2 mins. Pick the right price - everything sells if the price is right, Use great photos, Provide clear details and Promote your ad to get the right buyer faster.</p>\n<h4>Filter Cars by Transmission, Body Type, Price and Mileage</h4>\n<p>Choose from Automatic, Manual, Tiptronic and Other transmission types and also by fuel type as petrol, hybrid, diesel, electric, CNG. Pick the desired body type that fits your need like Hatchback, Saloon, SUV / 4x4, Station wagon, MPV, Coup&eacute;/Sports and Convertible. Filter by price and mileage to make it easier to find the car that suits you and your need.</p>",
+                    "contentSnippet": "<h4>9,258+ Cars for Sale in Sri Lanka</h4>\n<p>You have access to over 9,258+ brand new, used and reconditioned cars at low prices on ikman.lk, the largest vehicle marketplace in Sri Lanka. Make use of our category-based search to find the right car for you. From Toyota, Honda, Mercedez to BMW, and everything in between, ikman.lk has a wide range of cars listings of all vehicle brands, models and a wide variety of auto services near you.</p>\n<h4>Buy Cars at best price in Sri Lanka</h4>\n<p>Browse 9,258+ Cars from top brands like <a href='/en/ads/sri-lanka/cars/toyota'>Toyota</a>, <a href='/en/ads/sri-lanka/cars/suzuki'>Suzuki</a>, <a href='/en/ads/sri-lanka/cars/honda'>Honda</a>, <a href='/en/ads/sri-lanka/cars/nissan'>Nissan</a>, <a href='/en/ads/sri-lanka/cars/mitsubishi'>Mitsubishi</a> and more only on ikman.lk. Find <a href='/en/ads/c/sri-lanka/cars/used'>Used</a>, <a href='/en/ads/c/sri-lanka/cars/reconditioned'>Reconditioned</a>, <a href='/en/ads/c/sri-lanka/cars/new'>New</a> Cars from private sellers, trusted members, car sales and authorized dealers islandwide.</p>\n<h4>Sell Cars easily on ikman.lk</h4>\n<p>Sell your Cars online and reach thousands of interested buyers. Posting an ad on ikman takes just 2 mins. Pick the right price - everything sells if the price is right, Use great photos, Provide clear details and Promote your ad to get the right buyer faster.</p>\n<h4>Filter Cars by Transmission, Body Type, Price and Mileage</h4>\n<p>Choose from Automatic, Manual, Tiptronic and Other transmission types and also by fuel type as petrol, hybrid, diesel, electric, CNG. Pick the desired body type that fits your need like Hatchback, Saloon, SUV / 4x4, Station wagon, MPV, Coup&eacute;/Sports and Convertible. Filter by price and mileage to make it easier to find the car that suits you and your need.</p>",
                     "isCuratedQuery": false
 }
