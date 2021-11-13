@@ -42,19 +42,7 @@ for page in range(1,5): #Change Page Range
   #new = json.dumps(data, )
   #print(type(new))
 
-"""
-for ads in data['ads']:
-  del ads['mrp']
-  del ads['slug']
-  del ads['imgUrl']
-  del ads['discount']
-  del ads['isDeliveryFree']
-  del ads['isTopAd']
-  del ads['isUrgentAd']
-  del ads['isVerified']
-  del ads['isLocalJob']
-  del ads['adType']
-"""
+
 
  #json File
   f = open("IkmanCars.json", "w")
