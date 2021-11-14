@@ -1,11 +1,11 @@
 import time
+from glob import glob
+
 import requests
 import json
 import pandas as pd
 
-
-
-#url = "https://ikman.lk/data/serp?top_ads=2&spotlights=5&sort=date&order=desc&buy_now=0&urgent=0&categorySlug=cars&locationSlug=sri-lanka&category=392&page=2&filter_json=[]"
+# url = "https://ikman.lk/data/serp?top_ads=2&spotlights=5&sort=date&order=desc&buy_now=0&urgent=0&categorySlug=cars&locationSlug=sri-lanka&category=392&page=2&filter_json=[]"
 
 payload = {}
 headers = {
@@ -26,50 +26,44 @@ headers = {
 
 cars = pd.DataFrame([])
 
+for page in range(1, 6):  # Change Page Range
+	url = f"https://ikman.lk/data/serp?top_ads=2&spotlights=5&sort=date&order=desc&buy_now=0&urgent=0&categorySlug=cars&locationSlug=sri-lanka&category=392&page={page}&filter_json=[]"
+	r = requests.get(url, headers=headers)
+	data = json.loads(r.text)
+	cars = cars.append(pd.json_normalize(data['ads']))
+	time.sleep(5)
 
-for page in range(1,6): #Change Page Range
-  url = f"https://ikman.lk/data/serp?top_ads=2&spotlights=5&sort=date&order=desc&buy_now=0&urgent=0&categorySlug=cars&locationSlug=sri-lanka&category=392&page={page}&filter_json=[]"
-  r = requests.get(url, headers=headers)
-  data = json.loads(r.text)
-  cars = cars.append(pd.json_normalize(data['ads']))
-  time.sleep(5)
-
-
-  #print(type(data))
-  #for ads in data['ads']:
-	  #del ads['id']
+	#print(type(data))
 
 
-  print(f'Getting page {page}', 'wait only selected 5 page for Testing...')
+	print(f'Getting page {page}', 'wait only selected 5 page for Testing...')
 
-  #new = json.dumps(data, )
-  #print(type(new))
-  for ads in data['ads']:
-    del ads['slug']
-    del ads['imgUrl']
-    del ads['discount']
-    del ads['isDeliveryFree']
-    del ads['isTopAd']
-    del ads['isUrgentAd']
-    del ads['isVerified']
-    del ads['isLocalJob']
-    del ads['adType']
+	# new = json.dumps(data, )
+	#print(type(data))
+	for ads in data['ads']:
+		del ads['slug']
+		del ads['imgUrl']
+		del ads['discount']
+		del ads['isDeliveryFree']
+		del ads['isTopAd']
+		del ads['isUrgentAd']
+		del ads['isVerified']
+		del ads['isLocalJob']
+		del ads['adType']
 
+	# json File
+	f = open(f"IkmanCarsPage{page}.json", "w")
+	json.dump(data['ads'], f, indent=15)
+	f.close()
 
-
- #json File
-  f = open(f"IkmanCarsPage{page}.json", "w")
-  json.dump(data['ads'], f, indent= 15)
-  f.close()
-
-
-
-  #cars.to_json('ikmann.json')
-
-  #CSV File
-  cars.to_csv('ikman.csv')
+	with open('Json/finalmerge.json', 'w') as f:
+		for fname in glob('*.json'):
+			with open(fname) as j:
+				f.write(str(j.read()))
+				f.write('\n')
 
 
+	# cars.to_json('ikmann.json')
 
-
-
+	# CSV File
+	cars.to_csv('ikman.csv')
