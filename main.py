@@ -2,8 +2,7 @@ import time
 import requests
 import json
 import pandas as pd
-import os
-import glob
+
 
 
 #url = "https://ikman.lk/data/serp?top_ads=2&spotlights=5&sort=date&order=desc&buy_now=0&urgent=0&categorySlug=cars&locationSlug=sri-lanka&category=392&page=2&filter_json=[]"
@@ -35,7 +34,7 @@ for page in range(1,372): #Change Page Range
   cars = cars.append(pd.json_normalize(data['ads']))
   time.sleep(5)
 
-  del cars['id']
+
   #print(type(data))
   #for ads in data['ads']:
 	  #del ads['id']
